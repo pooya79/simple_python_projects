@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>png/checked.png</file>
+    <file>png/unchecked.png</file>
+    <file>png/001-video-conference.png</file>
+    <file>png/002-test.png</file>
+    <file>png/003-accuracy.png</file>
+    <file>png/document.png</file>
+    <file>png/layout.png</file>
+  </qresource>
+</RCC>
